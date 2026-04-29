@@ -1,0 +1,17 @@
+name: Trigger Blog Deploy
+
+on:
+  push:
+    branches:
+      - main  # or your default branch name
+
+jobs:
+  dispatch:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Repository Dispatch
+        uses: peter-evans/repository-dispatch@v3
+        with:
+          token: ${{ secrets.BLOG_DEPLOY_TOKEN }}
+          repository: minstrike520/blog-fuwari
+          event-type: update-posts
