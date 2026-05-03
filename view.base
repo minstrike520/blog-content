@@ -27,6 +27,7 @@ views:
       - title
       - tags
       - published
+      - category
     sort:
       - property: title
         direction: ASC
