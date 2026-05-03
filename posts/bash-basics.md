@@ -1,11 +1,11 @@
 ---
-category: IT筆記
 title: Bash 基礎
+published: 2026-05-03
 tags:
   - bash
   - Linux
-published: 2026-05-03
-description:
+category: IT筆記
+draft: false
 ---
 ## 軟連結
 

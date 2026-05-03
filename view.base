@@ -1,6 +1,6 @@
 filters:
   and:
-    - file.folder == "blog/posts"
+    - file.folder.startsWith("blog/posts")
 views:
   - type: table
     name: 全部

@@ -44,5 +44,6 @@ Enter 或按 Execute 之後可以看到預覽：
 ![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/minstrike520/blog-fuwari/build.yml?logo=github&label=deploy)
 ```
 
-顯示在這裡！ ![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/minstrike520/blog-fuwari/build.yml?logo=github&label=deploy) （如果沒有壞掉的話）
-ㄕ
+顯示在這裡！（如果沒有壞掉的話）👇
+
+![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/minstrike520/blog-fuwari/deploy.yml?logo=github&label=deploy) 
