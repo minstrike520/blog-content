@@ -1,9 +1,9 @@
+filters:
+  and:
+    - file.folder == "blog/posts"
 views:
   - type: table
-    name: 表格
-    filters:
-      and:
-        - file.folder == "blog/posts"
+    name: 全部
     order:
       - file.name
       - title
@@ -15,4 +15,20 @@ views:
       - property: title
         direction: ASC
       - property: description
+        direction: ASC
+    indentProperties: false
+  - type: table
+    name: IT筆記
+    filters:
+      and:
+        - category == "IT筆記"
+    order:
+      - file.name
+      - title
+      - tags
+      - published
+    sort:
+      - property: title
+        direction: ASC
+      - property: file.name
         direction: ASC
