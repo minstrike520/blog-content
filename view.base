@@ -1,0 +1,18 @@
+views:
+  - type: table
+    name: 表格
+    filters:
+      and:
+        - file.folder == "blog/posts"
+    order:
+      - file.name
+      - title
+      - category
+      - tags
+      - description
+      - draft
+    sort:
+      - property: title
+        direction: ASC
+      - property: description
+        direction: ASC
