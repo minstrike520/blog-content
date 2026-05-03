@@ -1,5 +1,6 @@
 ---
 title: Do It (Planned) Anyway
+published: 2026-05-04
 category: 雜談
 tags:
   - 自我管理
