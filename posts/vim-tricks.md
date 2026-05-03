@@ -1,5 +1,5 @@
 ---
-title: "[Notes] Vim Tricks"
+title: Vim Tricks
 published: 2026-01-08
 category: IT筆記
 tags:

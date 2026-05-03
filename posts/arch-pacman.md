@@ -1,5 +1,5 @@
 ---
-title: '[Notes] Pacman Commands'
+title: Pacman Commands
 published: 2026-01-08
 updated: 2026-01-08
 tags:

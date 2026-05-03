@@ -1,5 +1,5 @@
 ---
-title: "[Notes] Systemd Commands"
+title: Systemd Commands
 category: IT筆記
 published: 2026-01-08 00:00:00
 tags:
