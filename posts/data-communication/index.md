@@ -1,5 +1,5 @@
 ---
-title: 114-1 Data Communication - Overview
+title: 114-1 資料通訊
 published: 2025-12-26
 tags:
   - data-communication

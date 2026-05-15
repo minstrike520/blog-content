@@ -1,6 +1,7 @@
 filters:
   and:
     - file.folder.startsWith("blog/posts")
+    - file.ext == "md"
 views:
   - type: table
     name: 全部
@@ -11,7 +12,10 @@ views:
       - tags
       - description
       - draft
+      - published
     sort:
+      - property: published
+        direction: DESC
       - property: title
         direction: ASC
       - property: description

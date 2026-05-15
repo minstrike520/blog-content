@@ -91,3 +91,14 @@ docker exec -it <CONTAINER_NAME> <COMMAND ...>
 ```bash
 docker run --rm -it --entrypoint /bin/sh <IMAGE_NAME>
 ```
+
+
+## 匯出/匯入
+
+```shell
+docker save <IMAGE_NAME> -o some_archive.tar
+```
+
+```shell
+docker load -i some_archive.tar
+```
