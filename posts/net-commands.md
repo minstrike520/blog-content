@@ -12,3 +12,9 @@ published: 2026-05-13
 ```shell
 nc -zv IP PORT
 ```
+
+檢查所有使用中的 port：
+
+```bash
+sudo ss -tulpn
+```

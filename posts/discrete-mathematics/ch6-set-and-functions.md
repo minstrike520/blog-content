@@ -93,7 +93,7 @@ Proof.
 ${\left| N \right| = \left| Q^{+} \right|}$.
 對角化
 
-![](image.png)
+![](opt/blog/posts/discrete-mathematics/image.png)
 
 Proof.
 ${\left| \mathbb{N} \right| \ne \left| \mathbb{R} \right|}$.
