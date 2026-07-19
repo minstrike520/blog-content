@@ -3,6 +3,9 @@ import { defineCollection, z } from "astro:content";
 const postsCollection = defineCollection({
 	schema: z.object({
 		title: z.string(),
+		// Every article must declare what it is:
+		// "post" shows up in /blog/, "doc" shows up in /docs/
+		kind: z.enum(["post", "doc"]),
 		published: z.date(),
 		updated: z.date().optional(),
 		draft: z.boolean().optional().default(false),
