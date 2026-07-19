@@ -1,5 +1,6 @@
 ---
 title: 114-1 Linear Algebra - Overview
+kind: doc
 published: 2026-02-02
 category: 大學修課
 tags:

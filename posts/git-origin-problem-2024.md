@@ -1,5 +1,6 @@
 ---
 title: Git Authentication Problem Notes
+kind: doc
 published: 2024-11-12
 tags:
   - Git

@@ -1,5 +1,6 @@
 ---
 title: 05 Counting
+kind: doc
 published: 2025-04-14
 category: 大學修課
 tags:

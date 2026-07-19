@@ -1,5 +1,6 @@
 ---
 title: 腦內知識I/O
+kind: post
 published: 2026-02-23
 description: 談一談在 geedea.pro 部落格提到的關於「知識消費」與「知識產出」的關係，以及關於「週刊」的撰寫。
 tags:

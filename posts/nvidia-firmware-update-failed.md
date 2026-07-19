@@ -1,5 +1,6 @@
 ---
 title: NVidia 韌體更新失敗
+kind: doc
 published: 2025-06-22
 tags:
   - Arch_Linux

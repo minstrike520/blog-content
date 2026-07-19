@@ -1,5 +1,6 @@
 ---
 title: 關於整理
+kind: post
 published: 2026-01-07
 tags:
   - 筆記

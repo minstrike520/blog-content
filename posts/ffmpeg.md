@@ -1,5 +1,6 @@
 ---
 title: ffmpeg 筆記
+kind: doc
 published: 2026-01-27
 tags:
   - 影像處理

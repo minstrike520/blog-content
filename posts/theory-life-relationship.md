@@ -1,5 +1,6 @@
 ---
 title: 生活與自我提昇理論
+kind: post
 published: 2026-05-17
 description: 實用性影片觀後感。
 tags:
@@ -9,7 +10,7 @@ draft: false
 ---
 【理论直接指导生活是一种危险倾向】 https://www.bilibili.com/video/BV1WtQMBoEip
 
-<iframe width="100%" height="468" src="//player.bilibili.com/player.html?isOutside=true&aid=116384705027411&bvid=BV1WtQMBoEip&cid=37413392237&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+<iframe width="100%" height="468" src="//player.bilibili.com/player.html?isOutside=true&aid=116384705027411&bvid=BV1WtQMBoEip&cid=37413392237&p=1&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 
 我一時之間無法綜整出這個影片的大意。不過他有引發我一些思考。
 

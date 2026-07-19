@@ -1,5 +1,6 @@
 ---
 title: ADB 的妙用：手機投影與控制
+kind: doc
 published: 2026-01-23
 tags:
   - ADB

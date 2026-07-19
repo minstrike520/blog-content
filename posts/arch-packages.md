@@ -1,5 +1,6 @@
 ---
 title: Pacman System
+kind: doc
 published: 2026-01-08
 updated: 2026-01-08
 tags:

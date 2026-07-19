@@ -1,5 +1,6 @@
 ---
 title: "Linear Algebra Chapter 5: Eigenvalues, Eigenvectors, and Diagonalization"
+kind: doc
 published: 2025-12-03
 category: 大學修課
 tags:

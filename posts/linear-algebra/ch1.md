@@ -1,5 +1,6 @@
 ---
 title: "Linear Algebra - Chapter 1: Matrices and Linear Transformations"
+kind: doc
 published: 2025-10-07
 category: 大學修課
 tags:

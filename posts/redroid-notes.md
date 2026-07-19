@@ -1,5 +1,6 @@
 ---
 title: "Redroid: Linux 系統的安卓模擬器"
+kind: doc
 published: 2025-11-04
 tags:
   - ADB

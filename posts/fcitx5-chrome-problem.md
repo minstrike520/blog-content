@@ -1,5 +1,6 @@
 ---
 title: fcitx5 與 Chrome 的相容性問題
+kind: doc
 published: 2026-01-12
 tags:
   - Linux

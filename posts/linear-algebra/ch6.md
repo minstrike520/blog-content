@@ -1,5 +1,6 @@
 ---
 title: "Linear Algebra Chapter 6: Orthogonality"
+kind: doc
 published: 2025-12-14
 category: 大學修課
 tags:

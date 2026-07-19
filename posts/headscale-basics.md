@@ -1,5 +1,6 @@
 ---
 title: Headscale Basics
+kind: doc
 published: 2025-12-31 10:24:00
 updated: 2025-12-31 10:24:00
 tags:

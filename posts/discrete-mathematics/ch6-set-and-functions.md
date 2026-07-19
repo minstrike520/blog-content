@@ -1,5 +1,6 @@
 ---
 title: 06 Set And Functions
+kind: doc
 published: 2025-06-06
 category: 大學修課
 tags:
@@ -93,7 +94,7 @@ Proof.
 ${\left| N \right| = \left| Q^{+} \right|}$.
 對角化
 
-![](opt/blog/posts/discrete-mathematics/image.png)
+![](image.png)
 
 Proof.
 ${\left| \mathbb{N} \right| \ne \left| \mathbb{R} \right|}$.

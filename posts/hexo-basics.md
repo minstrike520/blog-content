@@ -1,5 +1,6 @@
 ---
 title: Hexo Basics
+kind: doc
 tags:
   - IT-Basics
   - Hexo

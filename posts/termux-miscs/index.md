@@ -1,5 +1,6 @@
 ---
 title: 【雜記】Termux
+kind: doc
 published: 2024-11-12
 tags:
   - Termux

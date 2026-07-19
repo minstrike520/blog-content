@@ -1,5 +1,6 @@
 ---
 title: 113-2 Discrete Mathematics
+kind: doc
 published: 2026-01-28
 category: 大學修課
 ---

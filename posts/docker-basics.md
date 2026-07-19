@@ -1,5 +1,6 @@
 ---
 title: Docker Basics
+kind: doc
 tags:
   - IT-Basics
   - Docker

@@ -1,5 +1,6 @@
 ---
 title: Fuwari 語法總集
+kind: doc
 published: 2026-02-02
 tags:
   - Fuwari

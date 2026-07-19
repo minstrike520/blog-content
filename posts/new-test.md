@@ -1,5 +1,6 @@
 ---
 title: This is title.
+kind: doc
 published: 2026-03-31
 category: Examples
 tags:

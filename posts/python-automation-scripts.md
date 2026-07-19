@@ -1,5 +1,6 @@
 ---
 title: Python 自動化腳本
+kind: doc
 published: 2026-02-02
 tags:
   - Scripts

@@ -1,5 +1,6 @@
 ---
 title: 【三分鐘熱度】用程式寫音樂—Strudel
+kind: post
 description: 三分鐘熱度的音樂製作探索。
 published: 2026-02-27
 tags:

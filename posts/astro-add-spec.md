@@ -1,5 +1,6 @@
 ---
 title: 在 Fuwari 中加入自訂頁面
+kind: doc
 published: 2026-02-02
 tags:
   - 部落格

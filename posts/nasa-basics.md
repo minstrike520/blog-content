@@ -1,5 +1,6 @@
 ---
 title: 網管筆記
+kind: doc
 published: 2026-01-06
 tags:
   - 網路管理

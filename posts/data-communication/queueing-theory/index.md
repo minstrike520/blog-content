@@ -1,5 +1,6 @@
 ---
 title: Queueing Theory
+kind: doc
 published: 2026-01-27
 tags:
   - data-communication

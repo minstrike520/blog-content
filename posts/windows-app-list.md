@@ -1,5 +1,6 @@
 ---
 title: Windows 11 軟體備忘
+kind: doc
 published: 2026-01-21
 category: IT筆記
 tags:

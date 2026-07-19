@@ -1,5 +1,6 @@
 ---
 title: GitHub CLI
+kind: doc
 published: 2026-01-28
 tags:
   - IT-Basics

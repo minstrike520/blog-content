@@ -1,5 +1,6 @@
 ---
 title: 08 Basics of Graph
+kind: doc
 published: 2025-06-03
 category: 大學修課
 tags:

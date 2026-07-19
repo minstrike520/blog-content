@@ -1,5 +1,6 @@
 ---
 title: Cloudflare Basics
+kind: doc
 tags:
   - IT-Basics
   - Cloudflare

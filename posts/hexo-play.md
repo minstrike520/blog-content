@@ -1,5 +1,6 @@
 ---
 title: Hexo 與部落格
+kind: post
 published: 2026-01-08 10:18:00
 tags:
   - 筆記

@@ -1,5 +1,6 @@
 ---
 title: 02 Modular Arithmetics
+kind: doc
 published: 2025-04-10
 category: 大學修課
 tags:

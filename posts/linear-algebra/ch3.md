@@ -1,5 +1,6 @@
 ---
 title: "Linear Algebra - Chapter 3: Determinants"
+kind: doc
 published: 2025-10-21
 category: 大學修課
 tags:

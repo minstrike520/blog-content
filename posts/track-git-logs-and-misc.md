@@ -1,5 +1,6 @@
 ---
 title: Git Logs
+kind: doc
 published: 2024-11-12
 tags:
   - Git

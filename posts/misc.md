@@ -1,5 +1,6 @@
 ---
 title: 雜項筆記
+kind: doc
 published: 2026-01-23
 tags:
   - 雜項

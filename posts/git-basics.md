@@ -1,5 +1,6 @@
 ---
 title: Git Basics
+kind: doc
 published: 2024-11-12
 tags:
   - IT-Basics
@@ -12,32 +13,29 @@ category: IT筆記
 
 ## 版本控管
 
-### 返回未提交的修改
+### Undo Uncommitted Changes
 
 [StackOverflow Discussion](https://stackoverflow.com/questions/14075581/git-undo-all-uncommitted-or-unsaved-changes)
 
-清空暫存區/Unstage all：
+This will unstage all files you might have staged with `git add`:
 
 ```bash
-git restore --staged .
+git reset
 ```
-
-覆蓋未提交的變更/Revert all uncommitted changes
-註：只會影響到已追蹤的檔案
+    
+This will revert all local uncommitted changes (should be executed in repo root):
 
 ```bash
 git checkout .
 ```
-
-（TODO: 據說 `checkout .` 的功能被拆分成 `switch` 跟 `restore` 了。）
-
-覆蓋特定未提交的變更/Revert specific uncommitted changes   
+    
+  You can also revert uncommitted changes only to particular file or directory:
   
 ```bash
 git checkout [some_dir|file.txt]
 ```
 
-### 忽略檔案
+### Ignoring Files
 
 [reference](https://stackoverflow.com/questions/13541615/how-to-remove-files-that-are-listed-in-the-gitignore-but-still-on-the-repositor)
 
@@ -45,31 +43,6 @@ git checkout [some_dir|file.txt]
 
 ```bash!
 git rm --cached `git ls-files -i -c --exclude-from=.gitignore`
-```
-
-## 遠端控管
-
-### Push Local Repo to GitHub
-
-首先要先在GitHub開啟一個**空的**repo，名稱隨意，不過建議使用跟本地repo差不多的名字。
-
-接著要[使用GitHub CLI來做授權登入](../github-cli)。
-
-然後，在本地的commit：
-
-```bash!
-cd LOCAL_REPO_DIR/
-git init .
-git config --global --add safe.directory $(pwd -P)
-git add .
-git commit -m "init"
-```
-
-設定＆推送：
-
-```bash!
-git remote add origin <ORIGIN_URL>
-git push --set-upstream origin master
 ```
 
 ## 雜項
@@ -95,4 +68,29 @@ git config --global core.quotepath false
 ```
 
 這個設定的意思是「要不要把非標準字元輸出為代碼」。設定為否的話，系統才會嘗試把原本的字元顯示出來。至於如果還是亂碼，那就要去研究locale是否設定妥當。
+
+## 遠端控管
+
+### Push Local Repo to GitHub
+
+首先要先在GitHub開啟一個**空的**repo，名稱隨意，不過建議使用跟本地repo差不多的名字。
+
+接著要[使用GitHub CLI來做授權登入](../github-cli)。
+
+然後，在本地的commit：
+
+```bash!
+cd LOCAL_REPO_DIR/
+git init .
+git config --global --add safe.directory $(pwd -P)
+git add .
+git commit -m "init"
+```
+
+設定＆推送：
+
+```bash!
+git remote add origin <ORIGIN_URL>
+git push --set-upstream origin master
+```
 

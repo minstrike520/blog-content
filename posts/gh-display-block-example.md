@@ -1,5 +1,6 @@
 ---
 title: GitHub Block Example
+kind: doc
 published: 2026-03-31
 draft: false
 category: Examples

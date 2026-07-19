@@ -1,5 +1,6 @@
 ---
 title: 開源專案的狀態徽章
+kind: doc
 published: 2026-02-02
 description: 在你的 README.md 掛上各種小圖標
 tags: []

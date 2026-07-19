@@ -1,5 +1,6 @@
 ---
 title: 03 Mathematical Induction
+kind: doc
 published: 2025-04-07
 category: 大學修課
 tags:

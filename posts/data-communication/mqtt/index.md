@@ -1,6 +1,7 @@
 ---
 published: 2026-02-02
 title: MQTT
+kind: doc
 category: 大學修課
 tags:
   - data-communication

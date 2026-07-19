@@ -1,5 +1,6 @@
 ---
 title: 未定
+kind: post
 published: 2026-02-24
 description: 未定
 tags:

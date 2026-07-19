@@ -1,5 +1,6 @@
 ---
 title: Bash 基礎
+kind: doc
 published: 2026-05-03
 tags:
   - bash

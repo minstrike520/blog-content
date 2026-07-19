@@ -1,5 +1,6 @@
 ---
 title: 生活的動力
+kind: post
 published: 2026-05-15
 description: 從「駭客的工作觀」引發的一些思考。
 tags:

@@ -1,5 +1,6 @@
 ---
 title: Promoting Arch Linux
+kind: post
 published: 2026-03-31
 draft: true
 category: 雜談

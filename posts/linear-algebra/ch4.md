@@ -1,5 +1,6 @@
 ---
 title: "Linear Algebra Chapter 4: Subspaces and Their Properties"
+kind: doc
 published: 2025-11-02
 category: 大學修課
 tags:

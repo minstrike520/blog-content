@@ -1,5 +1,6 @@
 ---
 title: 07 Binary Relations
+kind: doc
 published: 2025-06-06
 category: 大學修課
 tags:

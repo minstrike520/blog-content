@@ -1,5 +1,6 @@
 ---
 title: Dual Boot Windows in Arch Linux
+kind: doc
 published: 2025-09-15
 tags:
   - Windows

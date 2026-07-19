@@ -3,6 +3,7 @@ published: 2026-01-08 09:25:00
 updated: 2026-01-08 09:25:00
 category: IT筆記
 title: Tar Basics
+kind: doc
 tags:
   - CLI-apps
 ---

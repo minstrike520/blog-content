@@ -1,5 +1,6 @@
 ---
 title: Routing Interet Traffic Using Tailscale
+kind: doc
 published: 2025-12-31 14:01:00
 updated: 2025-12-31 14:01:00
 category: IT筆記

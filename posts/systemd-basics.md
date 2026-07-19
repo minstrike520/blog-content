@@ -1,5 +1,6 @@
 ---
 title: Systemd Commands
+kind: doc
 category: IT筆記
 published: 2026-01-08 00:00:00
 tags:

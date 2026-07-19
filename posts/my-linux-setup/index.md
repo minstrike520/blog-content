@@ -1,5 +1,6 @@
 ---
 title: 半個技術宅的電腦配置（一）
+kind: post
 published: 2026-03-31
 draft: false
 category: 雜談

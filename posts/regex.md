@@ -1,5 +1,6 @@
 ---
 title: 正則表達式—速查
+kind: doc
 published: 2026-01-26
 tags:
   - 正規表達式

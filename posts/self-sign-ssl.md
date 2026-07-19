@@ -1,5 +1,6 @@
 ---
 title: 自簽 SSL 憑證
+kind: doc
 published: 2026-05-13
 description:
 tags:

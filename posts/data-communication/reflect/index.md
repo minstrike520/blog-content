@@ -1,5 +1,6 @@
 ---
 title: 114-1 資料通訊 修課心得
+kind: doc
 published: 2026-05-12
 description:
 tags:

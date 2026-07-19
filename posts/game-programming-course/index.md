@@ -1,5 +1,6 @@
 ---
 title: 114-1 遊戲程式設計
+kind: doc
 published: 2026-02-06
 description: 程式邏輯相關的通識課。
 tags:
