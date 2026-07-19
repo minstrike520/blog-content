@@ -1,8 +1,11 @@
 ---
 ---
-最近在做的事（隨時更新）：
 
-- 重新設計這個網站：拆分 Blog／Docs、換上新的配色。
-- （在這裡寫下你目前的狀態、正在學的東西、正在玩的東西……）
+*你可能想問：[什麼是「now page」？](https://nownownow.com/about)*
 
-> 這是一個 [/now page](https://nownownow.com/about)：比 about 更即時，記錄「現在」的狀態。
+## 近期關注
+
+- 換了新筆電 Macbook Neo 之後，終於能夠隨時帶著筆電到處跑，開始對咖啡廳很感興趣。
+- Claude Pro 刷下去了！
+- 一閒下來就覺得該開始更新部落格了，但現在還正在找回寫文習慣
+    - 結果第一個做的不是寫文章而是翻新部落格。。。~~反正是 Fable 5 寫，又不是我寫，[Pro 方案快沒得用 Fable 了](https://www.blocktempo.com/anthropic-keeps-fable-included-max-team-premium-plans-pro-credits/)，多用一點是一點。

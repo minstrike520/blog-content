@@ -1,5 +1,5 @@
 ---
-title: 
+title:
 ---
 這個部落格始於 2025/12/30。早於這個時間的貼文都是從別處的筆記遷移過來的。
 
@@ -55,6 +55,9 @@ title:
     </a>
     <a title='Diggon lol' href="https://diggon.lol/">
         <img src="https://diggon.lol/pictures/icons/88x31.gif">
+    </a>
+    <a href="https://blog.giveanornot.com/">
+        <img src="https://blog.giveanornot.com/logo.webp" alt="資工小廢物 - JN 的露狗">
     </a>
 </div>
 </center>
