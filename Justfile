@@ -23,7 +23,7 @@ export dest:
   cp -r spec/ {{dest}}/
   cp config.ts {{dest}}/
 
-export dest:
+import dest:
   rm -rf posts
   rm -rf spec
   rm -rf config.ts
