@@ -2,6 +2,7 @@
 title: 讀書心得
 published: 2026-07-23
 description: 這標題看起來像交差了事的國小作文。
+kind: post
 tags:
   - 自我管理
   - 閱讀
