@@ -1,6 +1,7 @@
 ---
 title: Nextcloud + ONLYOFFICE 自架整合
 published: 2026-07-22
+kind: doc
 description:
 tags:
   - Nextcloud
