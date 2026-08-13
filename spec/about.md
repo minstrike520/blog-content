@@ -20,6 +20,10 @@ title:
 
 ---
 
+## 本站備忘＆待辦
+
+- [ ] If `kind=docs`: `/posts/xxx` redirect to `/docs/xxx`
+
 ## 友鏈
 
 <style>
