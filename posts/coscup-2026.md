@@ -60,7 +60,7 @@ draft: false
     這種主題似乎叫做「科技治理」。一開始是想說畢竟有在用 Discord，之前年齡驗證有很大爭議，就因此來聽聽。
 4. [編輯器的歷史、現況與未來：從 Electron 到 Rust 與 GPU 驅動的現代化架構 (以 Zed 為例)](https://coscup.org/2026/session/T37ECE)
 5. [[Prime Session] Becoming an Open-Source Coder - why & how](https://coscup.org/2026/session/K89MHJ)
-	慕[高天](https://www.youtube.com/@minkoder)之名而來。[講座筆記](/posts/coscup-2026-becoming-os-coder.md)
+	慕[高天](https://www.youtube.com/@minkoder)之名而來。[講座筆記](/posts/coscup-2026-becoming-os-coder)
 
 **Day 2**
 
