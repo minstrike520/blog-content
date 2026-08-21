@@ -1,18 +1,19 @@
 filters:
   and:
-    - file.folder.startsWith("blog/posts")
+    - file.folder.endsWith("blog/posts")
     - file.ext == "md"
 views:
   - type: table
     name: 全部
     order:
+      - published
       - file.name
+      - draft
+      - kind
       - title
       - category
       - tags
       - description
-      - draft
-      - published
     sort:
       - property: published
         direction: DESC
@@ -21,6 +22,11 @@ views:
       - property: description
         direction: ASC
     indentProperties: false
+    columnSize:
+      note.published: 114
+      file.name: 134
+      note.draft: 23
+      note.kind: 46
   - type: table
     name: IT筆記
     filters:
