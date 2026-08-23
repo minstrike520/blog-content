@@ -1,10 +1,11 @@
 ---
 title: 該做什麼
 published: 2026-08-21
-description:
-kind:
-tags: []
-category:
+description: 暑假還有點時間，但我不知道該做什麼好。
+kind: post
+tags:
+  - 自我管理
+category: 雜談
 draft: false
 ---
 > 本來還想著這會不會有點私人，但是之前早就發過好多次類似的主題了（請見標籤 [#自我管理](/archive/?tag=自我管理)），而且總覺得都寫那麼多了不發上來有點浪費（到底在浪費什麼）
