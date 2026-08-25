@@ -2,10 +2,11 @@
 published: 2026-01-08 09:25:00
 updated: 2026-01-08 09:25:00
 category: IT筆記
-title: 一直覺得 tar 的指令很難記，跟其他指令的邏輯都不太一樣。
+description: 一直覺得 tar 的指令很難記，跟其他指令的邏輯都不太一樣。
 kind: doc
 tags:
   - CLI-apps
+title: tar 指令基礎
 ---
 ## 基本旗標
 
