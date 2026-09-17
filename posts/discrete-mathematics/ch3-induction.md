@@ -83,6 +83,9 @@ P(x) = \text{true} \land \forall k > x,\ P(k) \implies P(k + 1)
 $$
 
 ## Strong Mathematical Induction
+
+與弱歸納法不同的是，弱歸納法只會檢查 $k$，強歸納法會檢查 $x+1$ 到 $k$。
+
 $$
 P(x) = \text{true} \land \forall k > x,\ P(x) \land P(x + 1) \land \dots \land P(k) \implies P(k + 1)
 $$
